@@ -40,9 +40,41 @@ body {
 
 #hollow {
     height: 105%;
-    width: 105%;
+    width: 105%;   
 }
 
-#test {
+#hollow:hover {
+    opacity: 0;
+}
+
+#play1 {
     display: initial;
+    background: url(images/one.png);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#play2 {
+    display: initial;
+    background: url(images/two.png);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#play3 {
+    display: initial;
+    background-image: url(images/three.png);
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#play0 {
+    display: initial;
+    background: inherit;
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center;
 }
