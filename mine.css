@@ -39,5 +39,10 @@ body {
 }
 
 #hollow {
-    width: 300%;
+    height: 105%;
+    width: 105%;
+}
+
+#test {
+    display: initial;
 }
