@@ -14,4 +14,4 @@ The end result expected was :
 <br>
 ![image](images/end-result.png)
 
-## [See my attempt here](https://charlottemoureau.github.io/flexbox-minefield/)
+## [See my attempt here !](https://charlottemoureau.github.io/flexbox-minefield/)
