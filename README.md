@@ -11,7 +11,7 @@ This was a solo project carried out on the 14th of January 2021 as part of the B
 - [ ] Learning the basics of flexbox.
 
 ### The end result expected was : 
-<br>
+
 ![image](images/end-result.png)
 <br>
 (As a bonus we could try to make the invisible boxes show their content on hover)
